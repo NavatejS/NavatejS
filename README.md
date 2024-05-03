@@ -7,7 +7,6 @@ Data Scientist
 I am a Data Scientist with an Information Technology and Management background. My passion for data science has been pushing me to keep learning and exploring innovative ways to harness the power of data. From crafting precise predictive models to architecting analytical frameworks, I thrive on leveraging cutting-edge technologies to drive impactful solutions. Certified in Full Stack Data Science, Google Data Analytics, and Salesforce Administration, I am committed to continuous growth and delivering tangible value through strategic decision-making. With each project and certification, I embrace the challenge of pushing boundaries and shaping a future where data-driven insights catalyze transformative change.
 
 *   🌍  I'm based in Hyderabad
-*   🖥️  See my portfolio at [Navatej's Portfolio](http://portifolio.com)
 *   ✉️  You can contact me at [navatej.surapaneni@gmail.com](mailto:navatej.surapaneni@gmail.com)
 
 ### Skills 
