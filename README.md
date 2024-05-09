@@ -1,10 +1,10 @@
-Hi! My name is Navatej Surrapaneni ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi! My name is Navatej Surapaneni ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-Data Scientist
+Data Analyst
 --------------
 
-I am an experienced Data Analyst with an Information Technology and Management background. My passion for data analysis has been pushing me to keep learning and exploring innovative ways to harness the power of data. From crafting precise predictive models to architecting analytical frameworks, I thrive on leveraging cutting-edge technologies to drive impactful solutions. Certified in Full Stack Data Science, and Google Data Analytics, I am committed to continuous growth and delivering tangible value through strategic decision-making. With each project and certification, I embrace the challenge of pushing boundaries and shaping a future where data-driven insights catalyze transformative change.
+I am an experienced Data Analyst with a Masters in Management from the University of Liverpool and a BTech in Information Technology. My experience is backed by various certifications and includes projects like detecting the Meningitis Virus using ML and Social Media Sentiment Analysis for Zomato Restaurants. I'm good with Python, R, and SQL, and I use tools like Tableau and PowerBI to vizualise large amounts of data. My skills also include machine learning and data engineering, especially through ETL processes. Additionally, I have a strong background in Java and C++, along with practical experience in web technologies and various cloud platforms.
 
 *   🌍  I'm based in Hyderabad
 *   ✉️  You can contact me at [navatej.surapaneni@gmail.com](mailto:navatej.surapaneni@gmail.com)
