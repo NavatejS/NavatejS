@@ -1,7 +1,7 @@
 Hi! My name is Navatej Surapaneni ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-DATA ANALYST
+Data Analyst
 --------------
 
 I am an experienced Data Analyst with a Masters in Management from the University of Liverpool and a BTech in Information Technology. My experience is backed by various certifications and includes projects like detecting the Meningitis Virus using ML and Social Media Sentiment Analysis for Zomato Restaurants. I'm good with Python, R, and SQL, and I use tools like Tableau and PowerBI to vizualise large amounts of data. My skills also include machine learning and data engineering, especially through ETL processes. Additionally, I have a strong background in Java and C++, along with practical experience in web technologies and various cloud platforms.
